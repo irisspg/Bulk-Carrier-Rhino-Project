@@ -1,39 +1,33 @@
-# Bulk Carrier Design Project
+# Bulk Carrier Ship Design
 
 ## Overview
-This project, conducted in the **Naval Architecture** course, focuses on the conceptual design of a **Bulk Carrier**. The goal was to apply knowledge from naval architecture, physics, and mathematics to determine the ship's primary dimensions and understand the challenges faced by naval engineers.
+This project, conducted in the **Naval Architecture** course, aims to apply a wide range of engineering principles—including **naval architecture, physics, and mathematics**—to design a **Bulk Carrier**. The objective is to understand the challenges faced by naval engineers in ship design and construction.
 
 ## Project Details
-- **Initial Data:** Provided base values used to determine essential ship dimensions.
-- **Weight Estimations:** Calculations included the lightweight ship, structure, machinery, consumables, and full load displacement.
-- **Iterative Process:** Multiple iterations were performed to refine the values for greater accuracy.
-- **3D Modeling:** The final design was modeled using **Rhino 3D**.
-- **Gross and Net Tonnage Estimation:** The ship's tonnage values were estimated, and the general arrangement was developed.
+- **Initial Data:** Key ship parameters were provided to determine essential dimensions.
+- **Weight Estimations:** Calculations included lightweight ship weight, structure, machinery, consumables, and maximum loaded displacement.
+- **Iterative Calculations:** Several iterations were performed to achieve realistic values.
+- **3D Modeling:** The ship was modeled using **Rhino 3D**.
+- **Gross and Net Tonnage:** Estimated values were calculated.
+- **General Arrangement:** A layout of the ship’s compartments was developed.
 
-## Files
-- `Calculations.xlsx` – Spreadsheet containing all calculations for ship dimensions and weights.
-- `BulkCarrier_Model.png` – Rendered image of the ship model.
-- `General_Arrangement.pdf` – The general arrangement of the vessel.
-- `Report.pdf` – Detailed documentation covering methodology, calculations, and conclusions.
+## Files and Full Report
+The full project, including calculations, models, and documentation, can be accessed via the following link:
+[Full Project Folder](https://drive.google.com/drive/folders/1vepqMiMg4k4LoVowEHFBGlbv4H4FiONw?usp=drive_link)
 
-## Key Aspects
-- **Naval Architecture Principles:** Applied fundamental principles for ship design.
-- **Weight Estimation:** Ensured accurate calculations for different ship components.
-- **3D Modeling:** Used Rhino 3D to visualize the final design.
-- **Tonnage Calculations:** Estimated both gross and net tonnage based on ship parameters.
-
-## Images
-### 3D Model of the Bulk Carrier
-![Bulk Carrier Model](BulkCarrier_Model.png)
+## Key Aspects of the Design
+- **Main Dimensions Calculation:** Determination of ship length, breadth, depth, and draft.
+- **Weight Distribution:** Breakdown of ship components and weight categories.
+- **Ship Stability Considerations:** Ensuring compliance with stability requirements.
+- **Hull Modeling:** Development of a **3D model** using **Rhino 3D**.
 
 ## How to Use
-1. Open `Calculations.xlsx` to review the ship design calculations.
-2. View `BulkCarrier_Model.png` for the 3D model representation.
-3. Read `General_Arrangement.pdf` for an overview of the ship's layout.
-4. Check `Report.pdf` for a comprehensive explanation of the project.
+1. Access the full project via the Google Drive link.
+2. Review the calculation spreadsheets for detailed weight and dimension analysis.
+3. View the **Rhino 3D model** for ship geometry and structure.
+4. Read the final report for a comprehensive understanding of the design process.
 
 ## Future Improvements
-- Further refinement of the ship's dimensions and weight estimations.
-- Conduct hydrodynamic simulations for performance validation.
-- Explore structural optimizations for improved efficiency.
-
+- Refinement of weight estimations with more detailed structural analysis.
+- Incorporation of **Computational Fluid Dynamics (CFD)** simulations for hydrodynamic performance evaluation.
+- Optimization of cargo space and fuel efficiency.
